@@ -7,9 +7,11 @@ All data used expand from March 2013 to December 2020, and are retrieved from di
 
 Burned area data come from the Global Fire Emissions Database (GFED5) and can be downloaded from the following website : https://zenodo.org/records/7668424. 
 
-Surface temperature data are collected from Digital Earth Africa, based on the United States Geological Survey’s (USGS) Landsat satellite program. A sandbox must be used to download the required data and the code is described in the "csv_export.ipynb" file. 
+Surface temperature data are collected from Digital Earth Africa, based on the United States Geological Survey’s (USGS) Landsat satellite program. A sandbox must be used to download the required data and the code is described in the "csv_export.ipynb" file.  
 
 Rainfall data are also recovered from Digital Earth Africa, as it provides an open access copy of the monthly Climate Hazards Group InfraRed Precipitation with Station data (CHIRPS). Again, a sandbox must be used to download the required data and the code is described in the "test_rainfall.ipynb" file. 
+
+Here is the link to access the Digital Earth Africa sandbox: https://docs.digitalearthafrica.org/en/latest/data_specs/CHIRPS_specs.html#Amazon-Web-Service-S3.
 
 ## Files 
 - "R_code_thesis.R": this file contains the R script for the data analysis
